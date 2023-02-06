@@ -1,6 +1,6 @@
-# AA-FP-Space-time-spectral methods for-Nonlinear PDEs
+# AA-FP for space-time spectral methods for Nonlinear PDEs
 
-Code for the paper: Anderson acceleration for nonlinear PDEs discretized by space--time spectral methods
+Code for the paper: Anderson acceleration for nonlinear PDEs discretized by space-time spectral methods
 
 Authors: Sarah Nataj, Yunhui He
 
